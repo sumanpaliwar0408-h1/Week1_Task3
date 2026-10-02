@@ -1,0 +1,3 @@
+Task 3 has no Python package dependencies.
+
+Required application: Microsoft Power BI Desktop
