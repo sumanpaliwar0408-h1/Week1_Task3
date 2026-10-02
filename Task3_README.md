@@ -201,8 +201,8 @@ Data_Science_Week1_Task3_Visualization/
 ├── Screenshots/
 │   ├── dashboard-mockup.png
 │   ├── kpi-cards.png
-│   ├── monthly-sales-trend.png
-│   └── category-product-visuals.png
+│   ├── Customer-Segments.png
+│   └── Revenue-by-Category.png
 ├── README.md
 └── requirements.txt
 ```
